@@ -1,59 +1,33 @@
 
-## Nemonic
+## Browser test
 
-
-Another browser based around Electron, Zeronet, Beaker, Ory Editor, etc.
-
-
-### Why?
-
-- January 17th 2021 is fast approaching. :)
-- Where's the Cyberpucked 3D Web we were hoping for?
-- VR HUDs and gloves are nearly here.
-
+Browser compare.
 
 ### Sample
 
 <div align="center">
-  <img src="img/splash/internet2021_1280x720.jpg"><br><br>
+  <img src="img/splash/internet2024_1280x720.jpg"><br><br>
 </div>
-
 
 ### Todo
 
-- [x] integrate Beaker
-- [ ] integrate Zeronet/Ory/etc
-- [ ] 3D interface
-
+- [x] integrate Chat
+- [ ] 
 
 ### What's new?
 
-- Nothing much yet.
-
+- Todo
 
 ### Install
 
-
 ```
-git clone https://github.com/kustomzone/Nemonic.git
-cd Nemonic
+git clone https://github.com/kontains/site-test.git
+cd site-test
 npm install && npm start
 ```
 
-### About
+#### About
 
-http://www.thefreedictionary.com/Nemonic
-
-
-#### Thank you!
-
- - Github and the rest of the team working on Electron.
-
- 
-License
--------
-
-- Kustomzone Production, MIT license.
-- Contact: nemonic @ kustomzone.com
-
+- Kustomzone, MIT license.
+- Contact: test @ kustomzone.com
 ¬
